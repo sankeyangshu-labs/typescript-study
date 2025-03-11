@@ -9,6 +9,7 @@
 ### 基础篇
 
 - **[TypeScript 从零开始（一）：初识 TS](./note/TypeScript从零开始（一）：初识TS.md)**
+- **[TypeScript 从零开始（二）：基础类型上](./note/TypeScript从零开始（二）：基础类型上.md)**
 
 ### 进阶篇
 
