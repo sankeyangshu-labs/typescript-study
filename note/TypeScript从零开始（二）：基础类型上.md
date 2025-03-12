@@ -184,19 +184,16 @@ getId('123456abc');
 ```typescript
 type User = {
   name: string;
-
   age: number;
 };
 
 const userOne: User = {
   name: '张三',
-
   age: 25,
 };
 
 const userTwo: User = {
   name: '李四',
-
   age: 18,
 };
 ```
